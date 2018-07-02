@@ -1,5 +1,11 @@
 MentorChat is a chat application for mentors and mentees, where mentees will have access to mentors in a particular field for a token per month, after which the mentees will get paid for successful and useful answers
 
+#### Usage
+ To get on fast, use the following credentials
+ - email: adegokefemi17@gmail.com
+ - password: password
+
+
 #### Features
  - Landing page
    ![Landing page](screenshots/login.png)
@@ -20,3 +26,5 @@ MentorChat is a chat application for mentors and mentees, where mentees will hav
   - I used africastalking payment api
   - I used Firebase Storage, database, authentication, cloud-messaging
   - I used Retrofit for network calls
+
+
