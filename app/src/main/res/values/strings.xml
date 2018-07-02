@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="display_name">Display Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="need_an_account">NEED AN ACCOUNT?</string>
+    <string name="account_setting">Account Setting</string>
+    <string name="log_out">Log Out</string>
+    <string name="have_an_account">Have An Account</string>
+    <string name="welcome_to_mentchat">Welcome to MentChat</string>
+    <string name="create_a_new_account">Create a New Account</string>
+    <string name="login_to_account">Login To Account</string>
+    <string name="login">Login</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="change_status">Update Status</string>
+    <string name="change_image">Update Image</string>
+    <string name="status">Update Status</string>
+    <string name="all_users">All Users</string>
+    <string name="become_a_mentor">Become a Mentor</string>
+    <string name="become_a_mentee">Become a Mentee</string>
+    <string name="post_blog">Post Blog</string>
+    <string name="tutorials">Tutorials</string>
+
+    <string name="title_action_reset">Reset</string>
+
+    <string name="label_card_number">XXXX XXXX XXXX XXXX</string>
+    <string name="label_expired_date">MM/YY</string>
+    <string name="label_card_holder">CARD HOLDER</string>
+    <string name="label_cvv_code">CVV CODE</string>
+
+    <string name="hint_card_number">16-DIGIT CARD NUMBER</string>
+    <string name="hint_expired_date">EXPIRED DATE</string>
+    <string name="hint_card_holder">CARD HOLDER</string>
+    <string name="hint_cvv_code">CVV CODE</string>
+
+    <string name="label_secure_submission">Secure Submission</string>
+</resources>
